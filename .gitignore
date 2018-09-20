@@ -1,3 +1,0 @@
-#Exclude all shell files, especially cronjobs
-
-*.sh
